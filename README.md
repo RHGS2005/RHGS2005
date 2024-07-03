@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**RHGS2005/RHGS2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Boas vindas ao meu perfil 💙💙
 
-Here are some ideas to get you started:
+Meu nome é Rafael Henrique
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou estudando na [Alura](www.alura.com.br)
+
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+
+estudanterafael@email.com
+
+![](https://www.bing.com/th/id/OGC.8e4a0222bd38fed67a8bc7c009943975?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2f13G7hmmFr9yuxG%2fgiphy.gif&ehk=ZU0nX0MrRR%2f2MYips%2flkHVIVgswI3P4tbmKePVDI7nY%3d)
